@@ -37,15 +37,6 @@ This project is a responsive landing page inspired by a modern UI design. It fea
 ├── script.js # Animation logic with GSAP
 ├── 3856NeueMachina.woff2 # Custom font (optional)
 
-yaml
-Copy
-Edit
-
----
-
-## 📸 Demo
-
-
 
 ---
 
