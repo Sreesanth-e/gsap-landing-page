@@ -45,7 +45,7 @@ Edit
 
 ## 📸 Demo
 
-*(You can add screenshots here later if needed)*
+
 
 ---
 
@@ -57,11 +57,13 @@ Edit
 
 ---
 
-## 🔗 Live Preview
+![PHOTO-2025-06-30-21-15-27](https://github.com/user-attachments/assets/b15b379f-25d1-4702-aea8-3899ba09a6e8)
+![PHOTO-2025-06-30-21-15-12](https://github.com/user-attachments/assets/b8210930-42f9-4d75-b848-4559cb5ae728)
+![PHOTO-2025-06-30-21-14-57](https://github.com/user-attachments/assets/84d99874-a145-4157-9430-a040080ea9fa)
+![PHOTO-2025-06-30-21-14-41](https://github.com/user-attachments/assets/a74e3a6e-3259-4d41-8261-80dfeb1bc3ec)
+![PHOTO-2025-06-30-21-14-21](https://github.com/user-attachments/assets/512f517d-3a32-4171-b054-5a6300d130c8)
 
-*(Add GitHub Pages or Vercel link here if you deploy it)*
 
----
 
 ## 👤 Author
 
